@@ -1,5 +1,13 @@
+# Exclude everything
 /*
+
+# Folders to include
 !/.devcontainer/
 !/.vscode/
+!/example/
 !.gitignore
 !README.md
+
+# Extensions to include
+*.xdv
+*.gz
